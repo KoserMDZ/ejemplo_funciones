@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Esta línea se ejecuta en tercer lugar");
         function2();
         function1();
+
     }
 
     public static void function1(){
