@@ -9,7 +9,6 @@ public class Main {
 
     public static void function1(){
         System.out.println("Esta línea se ejecuta en primer lugar");
-
     }
 
     public static void function2(){
